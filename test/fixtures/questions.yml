@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  quiz_id: one
+  category_id: one
+  type_id: one
+  name: MyString
+
+two:
+  quiz_id: two
+  category_id: two
+  type_id: two
+  name: MyString
